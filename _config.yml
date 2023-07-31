@@ -1,5 +1,5 @@
 title: Diego Abreu
-logo: "https://github.com/DiegoAbreuSWB/DiegoAbreuSWB.github.io/blob/master/images/logo.png" # your photo (or logo) here
+logo: "/images/logo.png" # your photo (or logo) here
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Computer Engineer |Researcher | Networks | Security | Machine Learning | Quantum 
